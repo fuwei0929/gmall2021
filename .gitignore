@@ -1,0 +1,4 @@
+# Project exclude paths
+/gmall_canal/target/
+/gmall_common/target/
+/gmall_realtime/target/
